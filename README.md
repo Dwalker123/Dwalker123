@@ -1,16 +1,18 @@
-### Hi there 👋
+# Micro:bit project
+## Noice sensor
 
-<!--
-**Dwalker123/Dwalker123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What you need for this project:
+* Microbit
+* Loudness sensor
+* vibration sensor
+* LED light
 
-Here are some ideas to get you started:
+1. Pin sensors to correct pins
+* Loudness = Pin0
+* Vibration = Pin1
+*LED = Pin2
+### Code:
+![microbit code](https://user-images.githubusercontent.com/120211800/206775540-d94a5832-f067-4459-9c59-ae1da5968026.PNG)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### video:
