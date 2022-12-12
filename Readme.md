@@ -29,6 +29,8 @@ A semi like burgular alarm that either lights up or vibrate whenever it alerts n
 ![microbit code](https://user-images.githubusercontent.com/120211800/206775540-d94a5832-f067-4459-9c59-ae1da5968026.PNG)
 Python:[Microbit.txt](https://github.com/Dwalker123/Dwalker123/files/10211183/Microbit.txt)
 
+### Video:
+https://user-images.githubusercontent.com/120211800/207133400-f304fecc-4377-4932-b28b-45bac2ec1ddd.MOV
 
 ### Resources:
 Soil Moisture ->
